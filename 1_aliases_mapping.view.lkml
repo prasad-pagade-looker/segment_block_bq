@@ -6,7 +6,7 @@ view: aliases_mapping {
         select anonymous_id
         , user_id
         , timestamp as timestamp
-        from website.tracks_view
+        from javascript.tracks_view
 
         union distinct
 
