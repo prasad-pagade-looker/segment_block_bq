@@ -307,4 +307,3 @@
     show_view_names: false
     show_row_numbers: true
     truncate_column_names: false
-

@@ -1,5 +1,6 @@
+
 view: pages {
-  sql_table_name: website.pages_view ;;
+  sql_table_name: javascript.pages_view ;;
 
   dimension: id {
     primary_key: yes

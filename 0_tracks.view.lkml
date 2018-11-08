@@ -1,5 +1,5 @@
 view: tracks {
-  sql_table_name: website.tracks_view ;;
+  sql_table_name: javascript.tracks_view ;;
 
   dimension: id {
     primary_key: yes

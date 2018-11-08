@@ -1,5 +1,5 @@
 view: signup {
-  sql_table_name: website.signup_view ;;
+  sql_table_name: javascript.signup_view ;;
 
   dimension: id {
     primary_key: yes

@@ -1,5 +1,5 @@
 view: users {
-  sql_table_name: website.users_view ;;
+  sql_table_name: javascript.users_view ;;
 
   dimension: id {
     primary_key: yes

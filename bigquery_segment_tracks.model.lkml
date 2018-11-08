@@ -1,4 +1,4 @@
-connection: "bigquery"
+connection: "segment_bigquery_db"
 
 # include all views in this project
 include: "*.view"
